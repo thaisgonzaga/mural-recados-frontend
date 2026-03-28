@@ -1,5 +1,7 @@
 # Mural de Recados Frontend
 
+![Preview do projeto](img/image.png)
+
 ## 1. Objetivo do Projeto
 Este projeto implementa a interface web de um mural de recados.
 
